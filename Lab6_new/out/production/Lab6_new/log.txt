@@ -1,0 +1,35 @@
+commit fb088d257beb1d3be5075b50305f744b1c1c1d9a
+Author: smruthimg <sg1626@rit.edu>
+Date:   Tue Apr 4 12:23:59 2017 -0400
+
+    added comments
+
+commit ed92644714088d30971041f0d557b94d05655bcf
+Author: smruthimg <sg1626@rit.edu>
+Date:   Tue Apr 4 12:10:09 2017 -0400
+
+    Performance tweaks update
+
+commit 1636f09749ace26b58f4326bbf4d4a794fa1eddc
+Author: smruthimg <sg1626@rit.edu>
+Date:   Mon Apr 3 21:35:55 2017 -0400
+
+    Performance tweaks
+
+commit 04bb08cc49e88d688e99a315870a91412b490be1
+Author: smruthimg <sg1626@rit.edu>
+Date:   Mon Apr 3 16:45:17 2017 -0400
+
+    Bug Fixes
+
+commit 9752203d3c7b2e82b67c21af16c1e5fde2a22fef
+Author: smruthimg <sg1626@rit.edu>
+Date:   Mon Apr 3 14:09:52 2017 -0400
+
+    First implementation
+
+commit 8c7a1fde6b008ce667be7f2d477be3088c5c9b49
+Author: smruthimg <sg1626@rit.edu>
+Date:   Mon Apr 3 14:01:41 2017 -0400
+
+    First implementation

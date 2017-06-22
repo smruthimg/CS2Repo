@@ -1,0 +1,35 @@
+commit 17d0a6a4f202c8a5331e11bd0246edb315ba2a9a
+Author: smruthimg <sg1626@rit.edu>
+Date:   Mon Feb 20 15:09:45 2017 -0500
+
+    Bug fixes implemented
+
+commit f0160ee2ea107cae19557bdac2f9d85fd39ebf6f
+Author: smruthimg <sg1626@rit.edu>
+Date:   Mon Feb 20 11:24:37 2017 -0500
+
+    Added comments
+
+commit fb0a41df6fb2f5e151a4df8d1a6557414ef2ccb9
+Author: smruthimg <sg1626@rit.edu>
+Date:   Sat Feb 18 15:24:16 2017 -0500
+
+    Completed implementation
+
+commit f961918380fe3f512d692d6566846787fc70b44a
+Author: smruthimg <sg1626@rit.edu>
+Date:   Sat Feb 18 13:29:30 2017 -0500
+
+    Partial implementation -II
+
+commit 00787f014ab76553ebb5ff7de2ee44b7b68fadae
+Author: smruthimg <sg1626@rit.edu>
+Date:   Sat Feb 18 02:18:42 2017 -0500
+
+    Partial implementation -II
+
+commit 2784c3888ad61ce20c34540ed6b10e0d69446ccd
+Author: smruthimg <sg1626@rit.edu>
+Date:   Sat Feb 18 01:36:44 2017 -0500
+
+    Partial implementation

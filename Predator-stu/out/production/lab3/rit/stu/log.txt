@@ -1,0 +1,35 @@
+commit c620567ec2a2258c4746ad8458ad91015558c137
+Author: smruthimg <sg1626@rit.edu>
+Date:   Mon Feb 13 11:17:34 2017 -0500
+
+    6th push- added comments
+
+commit 1695a7369a288ab98a6503468df9232d9c10b870
+Author: smruthimg <sg1626@rit.edu>
+Date:   Mon Feb 13 11:04:18 2017 -0500
+
+    5th push- added comments
+
+commit dbce89f6ec21d253d5dd3c153d6dd2e82e134aa2
+Author: smruthimg <sg1626@rit.edu>
+Date:   Fri Feb 10 20:53:14 2017 -0500
+
+    4th push- bug fixes implemented
+
+commit 7c5f7fb70e72ba0f980086fc58d41507f0bb3998
+Author: smruthimg <sg1626@rit.edu>
+Date:   Fri Feb 10 17:27:49 2017 -0500
+
+    3nd push with Activity 2 partial implementation
+
+commit 34c7456631c7e503dd1d796f456c593901942f1b
+Author: smruthimg <sg1626@rit.edu>
+Date:   Fri Feb 10 02:21:26 2017 -0500
+
+    2nd push with Activity 2 partial implementation
+
+commit 457c156e0319218abe8f733e92009484dd2fda62
+Author: smruthimg <sg1626@rit.edu>
+Date:   Fri Feb 10 00:59:12 2017 -0500
+
+    First push with Lab implementation
